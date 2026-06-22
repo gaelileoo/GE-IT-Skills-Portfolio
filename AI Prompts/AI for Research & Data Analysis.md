@@ -21,7 +21,7 @@
   - Successfully cleaned **156 records** covering agricultural production across Mindanao
 
 ---
-## 2. Visualizations Generated
+#### 2. Visualizations Generated
 
 ### Chart 1 – Annual Cacao Production in Mindanao (2020–2025)
 
