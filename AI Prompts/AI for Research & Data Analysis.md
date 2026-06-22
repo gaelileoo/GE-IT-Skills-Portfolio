@@ -30,7 +30,6 @@
 ### Chart 2 – Rainfall Variability vs. Cacao Yield (2020–2025)
 
 ![Rainfall vs Yield](rainfall-vs-yield.png)
-```
 
 ---
 
