@@ -21,21 +21,15 @@
   - Successfully cleaned **156 records** covering agricultural production across Mindanao
 
 ---
+## 2. Visualizations Generated
 
-#### 2. Visualizations Generated
+### Chart 1 – Annual Cacao Production in Mindanao (2020–2025)
 
-##### Chart 1
-*(Embedded High-Contrast Bar Chart: Annual Cacao Production in Mindanao, 2020–2025)*
+![Annual Cacao Production](cacao-production.png)
 
-```text
-[Interactive Chart: 2020–2025 Mindanao Cacao Production Trend]
-```
+### Chart 2 – Rainfall Variability vs. Cacao Yield (2020–2025)
 
-##### Chart 2
-*(Embedded Line Chart: Rainfall Variability vs. Crop Yield Index, 2020–2025)*
-
-```text
-[Interactive Chart: Climate Variability and Agricultural Yield Correlation]
+![Rainfall vs Yield](rainfall-vs-yield.png)
 ```
 
 ---
